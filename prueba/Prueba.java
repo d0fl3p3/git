@@ -17,5 +17,6 @@ public class Prueba {
         double raiz = Math.sqrt(numero);
         System.out.println("El resultado es: " + raiz);
         teclado.close();
+        //Comentario para prueba de pull
     }
 }
